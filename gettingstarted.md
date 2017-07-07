@@ -66,7 +66,7 @@ If you just want to get the examples running within Eclipse and without using co
 
 * In an empty workspace, import via "Check out Maven Project from SCM" and click on "Next"
 ![Alt text](./img/dl4j_mvn_scm_checkout1.png)
-* Paste the git repo url: https://github.com/deeplearning4j/dl4j-examples.git (In case you don't see "git" in the dropdown click on the "Find more SCM connectors in the m2e Marketplace" link on the bottom, right of the dialog
+* Paste the git repo url: https://github.com/romeokienzler/dl4j-examples.git (In case you don't see "git" in the dropdown click on the "Find more SCM connectors in the m2e Marketplace" link on the bottom, right of the dialog
 ![Alt text](./img/dl4j_mvn_scm_checkout2.png)
 * Click on Finish (..and wait, it will take some time)
 
